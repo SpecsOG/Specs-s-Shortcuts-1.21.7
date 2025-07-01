@@ -1,22 +1,17 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
     "I": "minecraft:black_dye",
-    "S": "minecraft:prismarine_shard"
+    "S": "minecraft:prismarine"
   },
   "pattern": [
     "SSS",
     "SIS",
     "SSS"
   ],
-  "ingredients": [
-    "minecraft:prismarine",
-    "minecraft:prismarine",
-    "minecraft:black_dye"
-  ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "minecraft:dark_prismarine"
   }
 }
